@@ -1,6 +1,10 @@
 
 package Android;
-
+/**
+ *
+ * @author NAYEMA FERDOUSHI 
+ * DATE 15-10-2023 
+ */
 import java.util.Random;
 import java.util.Scanner;
 
